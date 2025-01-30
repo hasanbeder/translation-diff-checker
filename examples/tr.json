@@ -1,0 +1,22 @@
+{
+    "welcome": {
+        "title": "Uygulamamıza hoş geldiniz!",
+        "message": "Özelliklerimizi keşfetmeye başlayın"
+    },
+    "navigation": {
+        "home": "Ana Sayfa",
+        "profile": "Profil",
+        "settings": "Ayarlar"
+    },
+    "user": {
+        "profile": {
+            "name": "İsim",
+            "email": "E-posta",
+            "bio": "Biyografi"
+        }
+    },
+    "errors": {
+        "not_found": "Sayfa bulunamadı",
+        "server_error": "Sunucu hatası"
+    }
+}

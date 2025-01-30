@@ -1,0 +1,22 @@
+{
+    "welcome": {
+        "title": "Welcome to our app!",
+        "message": "Start exploring our features"
+    },
+    "navigation": {
+        "home": "Home",
+        "profile": "Profile",
+        "settings": "Settings"
+    },
+    "user": {
+        "profile": {
+            "name": "Name",
+            "email": "Email",
+            "bio": "Biography"
+        }
+    },
+    "errors": {
+        "not_found": "Page not found",
+        "server_error": "Internal server error"
+    }
+}
